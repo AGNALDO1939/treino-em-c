@@ -1,5 +1,5 @@
 # treino-em-c
 treinando c
-#imclude <Studio.h>
-#jnclude<stdlib.h>
+#include <Studio.h>
+#include<stdlib.h>
 
